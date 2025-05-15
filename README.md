@@ -1,2 +1,1 @@
-## Output Program Soal
-![image alt]([https://github.com/AryasatyaWicaksana/UTS_PBO6_231401114_Aryasatya-Wicaksana/blob/c6f352512077dc5d9ffa906de3d4a1ae4e9ca62b/Screenshot%20Output%20%20Soal%20UTS%20LAB%20PBO/Screenshot%20Output%20%20Soal%20no%201%20UTS%20PBO.png?raw=true](https://github.com/AryasatyaWicaksana/PBO6_TugasOOP2_Aryasatya-Wicaksana_231401114/blob/b57a10dda729d6bbabcd0bcbd4ade49ac27aa36e/Ss%20Program_Bensin.png))
+![Output Program Soal](https://github.com/AryasatyaWicaksana/PBO6_TugasOOP2_Aryasatya-Wicaksana_231401114/blob/b57a10dda729d6bbabcd0bcbd4ade49ac27aa36e/Ss%20Program_Bensin.png?raw=true)
